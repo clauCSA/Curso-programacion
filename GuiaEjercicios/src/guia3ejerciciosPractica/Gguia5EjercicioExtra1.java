@@ -5,6 +5,8 @@
  */
 package guia3ejerciciosPractica;
 
+import java.util.Scanner;
+
 /**
  *
  * @author larry
@@ -35,6 +37,6 @@ public class Gguia5EjercicioExtra1 {
     }
     
 }
-    }
     
-}
+    
+
